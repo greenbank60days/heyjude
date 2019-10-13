@@ -7,7 +7,7 @@ s.homepage     = "http://heyjudeapp.com"
 s.license      = { :type => 'PRIVATE', :file => 'LICENSE.txt' }
 s.author       = { "Byron Tudhope" => "byrontudhope@gmail.com" }
 s.platform     = :ios, "9.0"
-s.source       = { :git => "https://bitbucket.org/tctdigital/hey-jude-ios-sdk.git", :tag => "#{s.version}"}
+s.source       = { :git => "https://github.com/ruaan/heyjudefiles.git", :tag => "#{s.version}"}
 
 s.source_files  = "HeyJudeSDK/**/*.swift", "HeyJudeSDK/Models/*.swift"
 s.swift_version = "5"
